@@ -1,0 +1,41 @@
+{
+  [
+    {
+    "name":"americanas do paraguai", 
+    "about": "aqui vai ter aquela porrada de informaçoes ",
+    "employees": [
+      {
+        "employeeName":"joaozinho do pneu",
+        "occupation": "diarista"
+      },
+      {
+        "employeeName":"maria ricardão",
+        "occupation": "comentarista de futebol irlandes"
+      },
+      {
+        "employeeName":"princesinha do acai",
+        "occupation": "desocupada"
+      },
+    ],
+    }, 
+    
+    {
+    "name":"mequi viagens para outro plano", 
+    "about": "aqui vai ter aquela porrada de informaçoes ",
+    "employees": [
+      {
+        "employeeName":"palhaço sequelado do mec",
+        "occupation": "desempregado"
+      },
+      {
+        "employeeName":"joana d'arc",
+        "occupation": "guerreira"
+      },
+      {
+        "employeeName":"carl sagan",
+        "occupation": "estrela"
+      },
+    ],
+    } 
+  ]
+}
