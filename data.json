@@ -1,5 +1,5 @@
 {
-  [
+  "list":[
     {
     "name":"americanas do paraguai", 
     "about": "aqui vai ter aquela porrada de informaçoes ",
@@ -15,8 +15,8 @@
       {
         "employeeName":"princesinha do acai",
         "occupation": "desocupada"
-      },
-    ],
+      }
+    ]
     }, 
     
     {
@@ -34,8 +34,8 @@
       {
         "employeeName":"carl sagan",
         "occupation": "estrela"
-      },
-    ],
+      }
+    ]
     } 
   ]
 }
